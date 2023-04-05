@@ -1,23 +1,24 @@
 ![](https://www.telvista.com/wp-content/uploads/2022/06/Logo-Telvista.png)
 
-### Hola desarrolladores👋
 
-- 👨‍🏫 Soy docente a nivel secundaria de innovacion tecnologica.
+### Hola compañeros👋
+
+- 👨‍🏫 Consultor TI - TELVISTA.
 - 🔭 En bachillerato con informática.
 - 🖥 Estudiante de los ultimos semestre de ISC.
 - ⚡ Galgo.
 - 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
 
-## Horario Universitario
+## Horario Laboral
 
 | Horario 	|Lunes                        |Martes                       |Miercoles                    |Jueves                       |Viernes                      |
 |----------	|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-|2:00-3:00  |Admon base de datos          |Admon base de datos          |Admon base de datos          |Admon base de datos          |Admon base de datos          |
-|3:00-4:00  |Inteligencia Artificial      |Inteligencia Artificial      |Inteligencia Artificial      |Inteligencia Artificial      |Inteligencia Artificial      |
-|4:00-5:00  |Innovacion Tecnologica       |Innovacion Tecnologica       |Innovacion Tecnologica       |Innovacion Tecnologica       |Innovacion Tecnologica       | 
-|5:00-6:00  |Sistemas Progamables         |Sistemas Progamables         |Sistemas Progamables         |Sistemas Progamables         |Sistemas Progamables         |
-|6:00-7:00  |Administracion de redes    	|Administracion de redes    	|Administracion de redes    	|Administracion de redes    	|Administracion de redes    	|
-|7:00-8:00  |Patrones de diseño          	|Patrones de diseño          	|Patrones de diseño          	|Patrones de diseño          	|Patrones de diseño          	|
+|8:00-11:00 |Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|
+|11:00-12:00|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|Perfilamiento cliente MultiIn|
+|12:00-2:00 |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              | 
+|2:00-4:00  |Comida                       |Comida                       |Comida                       |Comida                       |Comida                       |
+|4:00-5:00  |Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|Prospectacion campaña recuper|
+|5:00-6:00  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
 
 
 <!--
