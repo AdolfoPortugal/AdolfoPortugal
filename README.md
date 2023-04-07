@@ -21,48 +21,6 @@
 |5:00-6:00  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
 
 
-## ESQUEMA DE INCENTIVO BONO TELVISTA
-
-<table ALIGN="LEFT">
-  <tr>
-    <td></td>
-    <td colspan="2">Tiempo en llamada</td>
-    <td colspan="2">Contactacion</td>
-    <td colspan="2">Contactacion campañas</td>
-    <td colspan="2">Generacion OPNS</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Base incentivo $2,350.00</td>
-    <td>Valor</td>
-    <td>20.00%</td>
-    <td>Valor</td>
-    <td>20.00%</td>
-    <td>Valor</td>
-    <td>30.00%</td>
-    <td>Valor</td>
-    <td>30.00%</td>
-  </tr>
-  <tr>
-    <td>Meta</td>
-    <td>3 Horas diarías</td>
-    <td>Meta</td>
-    <td>20 Contactos diarios (CRM)</td>
-    <td>Meta</td>
-    <td>Contratacion 80%</td>
-    <td>Meta</td>
-    <td>20 OPN`s</td>
-  </tr>
-  <tr>
-    <td>Minimo</td>
-    <td>2 Horas diarías</td>
-    <td>Minimo</td>
-    <td>15 Contactos diarios (CRM) </td>
-    <td>Minimo</td>
-    <td>Contactacion 70%</td>
-    <td>Minimo</td>
-    <td>16 OPN`s</td>
-  </tr>
-</table>
 
 
 
